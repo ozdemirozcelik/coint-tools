@@ -14,7 +14,11 @@
 
 Considering for the next version:
 
+- implement multi resolution strategies (1D & 1H together)
 - live signal generator for selected strategies
+- analyze earnings & news effect to pair spread
+- outlier pruning
+- more training & testing sets
 
 # Requirements
 
