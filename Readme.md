@@ -1,17 +1,20 @@
-# Pair Trading Analysis Toolkit for Jupyter Notebooks
+# Pair Trading Analysis & Exercises Toolkit for Jupyter Notebook
 
 # Use Cases
 
-- Identify cointegrated pairs for further analysis
+- Identify cointegrated pairs
 - Download & save ticker data by using yfinance
 - Merge and manipulate data for detailed pair analysis
 - Analyze pairs , residuals, perform unit root & cointegration tests
+- Heatmaps & Summary Report:
+
+![Summary Report](summary_report.png)
 
 # Considerations
 
 Considering for the next version:
 
-- backtest for given intervals
+- live signal generator for selected strategies
 
 # Requirements
 
@@ -22,5 +25,10 @@ Considering for the next version:
 * seaborn==0.11.2
 * statsmodels==0.12.2
 * yfinance==0.1.77
+* dataframe-image==0.1.3
+* fpdf==1.7.2
+* termcolor==2.0.1
+* plotly==5.10.0
+* pandas-ta==0.3.14b0
 
 
