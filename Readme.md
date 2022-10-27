@@ -3,12 +3,19 @@
 # Use Cases
 
 - Pair Selection (Identify cointegrated pairs)
-- Download & save ticker data by using yfinance
+- Download & save ticker data
 - Merge and manipulate data for detailed pair analysis
 - Analyze pairs , residuals, perform unit root & cointegration tests
-- Backtest & Summary Report:
+- Perform Backtests
+- PDF Summary Report:
 
 ![Summary Report](summary_report.png)
+
+Summary of Backtests:
+
+![Summary Tables](summary_tables.png)
+
+Confidence Intervals:
 
 ![Conf. Interval](heatmap.png)
 
