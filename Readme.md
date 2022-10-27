@@ -2,13 +2,15 @@
 
 # Use Cases
 
-- Identify cointegrated pairs
+- Pair Selection (Identify cointegrated pairs)
 - Download & save ticker data by using yfinance
 - Merge and manipulate data for detailed pair analysis
 - Analyze pairs , residuals, perform unit root & cointegration tests
-- Heatmaps & Summary Report:
+- Backtest & Summary Report:
 
 ![Summary Report](summary_report.png)
+
+![Conf. Interval](heatmap.png)
 
 # Considerations
 
