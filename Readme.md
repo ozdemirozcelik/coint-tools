@@ -6,14 +6,18 @@
 - Download & save ticker data
 - Merge and manipulate data for detailed pair analysis
 - Analyze pairs , residuals, perform unit root & cointegration tests
-- Perform Backtests
+- Perform backtests, Visualize trade & profit distribution
 - PDF Summary Report:
 
 ![Summary Report](summary_report.png)
 
+Trades Visualization:
+
+![Summary Orders](swarm_plot.png)
+
 Summary of Backtests:
 
-![Summary Tables](summary_tables.png)
+![Summary Backtests](summary_tables.png)
 
 Confidence Intervals:
 
